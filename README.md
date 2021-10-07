@@ -1,7 +1,5 @@
 # Growtopia Private Server HTML Website
 
-***
-
 # **Website Preview**
 - [Click Me](https://talented-shelled-healer.glitch.me/)
 - Screenshot Preview:
